@@ -1,0 +1,11 @@
+h2,a{
+    color: #f0ad4e;
+}
+a:hover{
+    color: red;
+}
+body{
+    background: url("../../resources/images/login_background.jpg") no-repeat;
+    background-size: cover;
+
+}
